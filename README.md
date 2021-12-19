@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  konark sharma
-- 👀 I’m an Aspiring Softwoare Engineer
+- 👀 I’m an Aspiring Software Engineer
 - 🌱 I’m currently persuing B.Tech
 - 💞️ I’m looking to collaborate on LinkedIN
 - 📫 sharmakonark6k1@gmail.com to reach me on Email
