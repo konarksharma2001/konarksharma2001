@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @konarksharma2001
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ML
+- 👋 Hi, I’m  konark sharma
+- 👀 I’m an Aspiring Softwoare Engineer
+- 🌱 I’m currently persuing B.Tech
 - 💞️ I’m looking to collaborate on LinkedIN
-- 📫 How to reach me Email
+- 📫 sharmakonark6k1@gmail.com to reach me on Email
 
 <!---
 konarksharma2001/konarksharma2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
