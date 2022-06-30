@@ -9,11 +9,11 @@
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning.</h3>
 
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **LikendIn**
 
-- 🤝 I’m looking for help with **Web development Project**
+- 🤝 I’m looking for  **Internships and Placements**
 
 - 💬 Ask me about **C++, DSA and Data Science**
 
