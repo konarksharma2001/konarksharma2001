@@ -9,7 +9,7 @@
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning.</h3>
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently Practising **DSA**
 
 - 👯 I’m looking to collaborate on **LikendIn**
 
