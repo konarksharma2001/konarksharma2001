@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for  **Internships and Placements**
 
-- 💬 Ask me about **C++, DSA and Data Science**
+- 💬 Ask me about **C++, DSA and Web Development**
 
 - 📫 How to reach me **sharmakonark6k1@gmail.com**
 
