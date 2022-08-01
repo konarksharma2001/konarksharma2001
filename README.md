@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Konark</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="swatantra-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatantra-coder&label=Profile%20views&color=0e75b6&style=flat" alt="konark-coder" /> </p>
 
 
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning.</h3>
