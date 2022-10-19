@@ -16,6 +16,8 @@
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xSVcv63tYyVEfvbnmGcFSEUV_Ml3XJnB/view?usp=sharing) -->
 
+[![@konarksharma2001's Holopin board](https://holopin.me/konarksharma2001)](https://holopin.io/@konarksharma2001)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/konark-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/konark-sharma/" height="30" width="40" /></a>
