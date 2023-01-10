@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sharmakonark6k1@gmail.com**
 
-<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xSVcv63tYyVEfvbnmGcFSEUV_Ml3XJnB/view?usp=sharing) -->
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xSVcv63tYyVEfvbnmGcFSEUV_Ml3XJnB/view?usp=sharing)
 
 [![@konarksharma2001's Holopin board](https://holopin.me/konarksharma2001)](https://holopin.io/@konarksharma2001)
 
