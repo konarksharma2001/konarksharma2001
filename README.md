@@ -8,7 +8,7 @@
 
 - 👯 I’m looking for **Software Development Internship(6 Months[Jan-Jun])/FTE.**
 
-- 🤝 I’m looking for  **Internships and Placements**
+- 🤝 I’m looking for  **Internships**
 
 - 💬 Ask me about **C++, DSA and Web Development**
 
@@ -31,4 +31,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konarksharma2001&theme=highcontrast&show_icons=true&layout=compact)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=konarksharma2001&theme=highcontrast&show_icons=true&layout=compact)
+![Konark's github stats](https://github-readme-stats.vercel.app/api?username=konarksharma2001&theme=highcontrast&show_icons=true&layout=compact)
