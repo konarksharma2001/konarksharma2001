@@ -3,7 +3,7 @@
 
 <h3 align="center">👀 I’m interested in Web Development, DSA, Data Science, Machine Learning.</h3>
 
-- 🏢 Upcoming **SDE Intern @Propelld**
+- 🏢 **SDE Intern @Propelld**
 
 - 💬 Ask me about **C++, DSA and Web Development**
 
