@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Konark</h1>
 
-<h3 align="center">👀 I’m a Full Stack MERN Developer</h3>
+<h3 align="center">👀 I’m a Full Stack  Developer</h3>
 
 - 🏢 **SDE Intern @Propelld**
 
