@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **sharmakonark6k1@gmail.com**
 
+  ![](https://komarev.com/ghpvc/?username=konarksharma2001&style=flat-square)
+
 [![@konarksharma2001's Holopin board](https://holopin.me/konarksharma2001)](https://holopin.io/@konarksharma2001)
 
 <h3 align="left">Connect with me:</h3>
