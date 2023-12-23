@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Konark</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" width=420 src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
+<img align="right" width=380 src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
 
 
 ![](https://komarev.com/ghpvc/?username=konarksharma2001&style=flat-square)
