@@ -81,23 +81,14 @@
 </td></tr></table>  
 <br/>  
 
-<table><tr><td valign="top" width="55%">
-<pre>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=konarksharma2001&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="konarksharma2001" /></p>
 
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=konarksharma2001&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="konarksharma2001" /></p>
-
-</td><td valign="center" width="45%">
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konarksharma2001&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="konarksharma2001" /></p>
-
-</pre>
-
-</td></tr></table>  
 <br/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=konarksharma2001&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=konarksharma2001&theme=dark&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+ 
+<br/>
 
-
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=konarksharma2001&hide=jupyter%20notebook,html&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="konarksharma2001" /></p>
 
