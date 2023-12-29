@@ -28,9 +28,6 @@
 <a href="https://leetcode.com/sharmakonark6k1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_Konark_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/konarksharma2001/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="konarksharma2001/practice/" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/konark-sharma/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22700232/konark-sharma" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
