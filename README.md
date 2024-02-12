@@ -13,7 +13,7 @@
   
 - ❓ Ask me about anything related to **MERN** stack and related technologies  
   
-- 📫 How to reach me **sharmakonark6k1@gmail.com**
+- 📫 How to reach me **https://konarksharma.vercel.app/**
 
 - ⚡ Fun fact: I use tabs over spaces  
   
